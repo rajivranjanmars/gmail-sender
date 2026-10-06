@@ -13,4 +13,4 @@ Configure the sender, recipient, subject, body, and Gmail app password in your l
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
